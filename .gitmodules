@@ -11,7 +11,7 @@
 [submodule "OCA/connector-salesforce"]
 	path = OCA/connector-salesforce
 	url = git@github.com:OCA/connector-salesforce.git
-	branch = 13.0
+	branch = 13.00
 
 [submodule "OCA/project"]
 	path = OCA/project

@@ -7,3 +7,8 @@
 	path = mhaodoo/TestRepo2
 	url = git@github.com:mhaodoo/TestRepo2.git
 	branch = master
+
+[submodule "OCA/connector-salesforce"]
+	path = OCA/connector-salesforce
+	url = git@github.com:OCA/connector-salesforce.git
+	branch = 13.0

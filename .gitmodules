@@ -2,3 +2,8 @@
 	path = mhaodoo/TestRepo
 	url = git@github.com:mhaodoo/TestRepo.git
 	branch = master
+
+[submodule "mhaodoo/TestRepo2"]
+	path = mhaodoo/TestRepo2
+	url = git@github.com:mhaodoo/TestRepo2.git
+	branch = master

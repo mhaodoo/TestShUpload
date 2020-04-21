@@ -1,0 +1,4 @@
+[submodule "mhaodoo/TestRepo"]
+	path = mhaodoo/TestRepo
+	url = git@github.com:mhaodoo/TestRepo.git
+	branch = master
